@@ -1,5 +1,6 @@
 # Hello-word
 practicing git
+
 Git Hub allows developers to record every edit, safely collaborate with teams and instantly revert files to previous states if mistakes happen.
 Version control is a system that tracks, manages, and safeguards changes to the program to check history
 
