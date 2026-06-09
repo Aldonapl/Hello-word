@@ -1,2 +1,2 @@
 # Hello-word
-pracricing git
+practicing git
