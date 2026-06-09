@@ -2,6 +2,7 @@
 practicing git
 Git Hub allows developers to record every edit, safely collaborate with teams and instantly revert files to previous states if mistakes happen.
 Version control is a system that tracks, manages, and safeguards changes to the program to check history
+
 When it comes to working with Git for version control, you can follow the best practices below:
 1.Commit small, self-contained changes. Keep each commit focused on one logical change so it’s easy to review, revert, and bisect.
 2.Write clear commit messages. Summarize what changed and why it changed so your history stays understandable over time.
